@@ -1,4 +1,4 @@
-# Unique-Python-Programs
+# Interesting Python Programs
 In this repository I'll be uploading python programs using several unique libraries that will make our life easier and hone our knowledge.
 
 # Libraries that are currently in this repository are
